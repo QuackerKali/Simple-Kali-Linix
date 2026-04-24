@@ -1,5 +1,6 @@
-# Simple-Kali-Linix
-A modern, lightweight graphical control panel for Kali Linux built in Python using ttkbootstrap. This project turns the standard Kali application menu into a cyber-style dashboard interface with searchable tools, categorized views, and quick launch buttons.
+A modern, lightweight graphical control panel for Kali Linux built in Python using ttkbootstrap.
+
+This project transforms the standard Kali application menu into a cyber-style dashboard interface, featuring searchable tools, categorized views, and one-click launch buttons.
 
 ⚡ Features
 🖥️ GUI Dashboard Interface
@@ -17,8 +18,9 @@ Web Security
 Wireless
 Password Attacks
 🧠 Smart Info System
-Provides human-readable explanations of tools
-Shows:
+
+Provides human-readable explanations of tools, including:
+
 What the tool does
 Category
 Execution command
@@ -45,6 +47,7 @@ Installed .desktop application entries
 ⚠️ Disclaimer
 
 This tool is intended for educational and authorized security testing only.
+
 Do not use Kali Linux tools on systems you do not own or have explicit permission to test.
 
 🚀 Future Plans
@@ -57,9 +60,3 @@ Cyber animated background UI
 📌 Summary
 
 This project transforms Kali Linux from a traditional menu-based system into a modern cyber operations dashboard, making penetration testing tools easier to access, organize, and understand.
-
-If you want, I can also:
-
-write a GitHub README.md with badges + screenshots layout
-or 
-make it look like a real security product page (BlackArch-style / Kali official UI style)
